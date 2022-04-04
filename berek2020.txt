@@ -1,3 +1,8 @@
+
+
+
+______próbha________
+
 Név;Neme;Részleg;Belépés;Bér
 Beri Dániel;férfi;beszerzés;1979;222943
 Csavar Pista;férfi;pénzügy;1995;234074
