@@ -173,4 +173,4 @@ Gáspár Olga;nő;karbantartás;2010;298381
 Ináncsi József;férfi;karbantartás;2001;199721
 Szabó András;férfi;beszerzés;2009;269287
 Erdős Árpád;férfi;szerelőműhely;2009;220353
-Kiss Jenő;férfi;karbantartás;1973;324666
+Kiss Jenő;férfi;karbantartás;1973;324665
